@@ -41,7 +41,7 @@ function start(){
 }
 
 function getMaterials(){
-    for (var i = 1; i < 27; i++){
+    for (var i = 1; i < 28; i++){
         materials.push(Materials.get('' + i));
     }
 }
